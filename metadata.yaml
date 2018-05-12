@@ -1,0 +1,28 @@
+_repo: You-Too-Can-Be-A-Millionaire_32907
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32907-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Loomis, Noel M.
+    alias: Loomis, Noel Miller
+    birthdate: 1905
+    deathdate: 1969
+    gutenberg_agent_id: '35155'
+    url: http://www.gutenberg.org/2009/agents/35155
+description: ''
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: You Too Can Be A Millionaire
+url: http://www.gutenberg.org/ebooks/32907
