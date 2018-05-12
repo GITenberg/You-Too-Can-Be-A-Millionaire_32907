@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35155'
     url: http://www.gutenberg.org/2009/agents/35155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32907#You-Too-Can-Be-A-Millionaire
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
